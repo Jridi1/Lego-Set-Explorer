@@ -1,5 +1,5 @@
 # Lego-Set-Explorer
 
-Project still in progress ...
+Project still in progress — but you can already check its current state in LEGO.pbix.
 
-Stay Tuned!
+Stay tuned!
