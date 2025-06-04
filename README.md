@@ -61,7 +61,7 @@ The project demonstrates end-to-end BI workflow: data cleansing, calculated colu
 ## How to Run
 1. **Clone** the repo:  
    ```bash
-   git clone https://github.com/<your-user>/lego-set-explorer.git
+   git clone https://github.com/jridi1/lego-set.git
    cd lego-set-explorer
    ```
 2. Open `LEGO.pbix` in **Power BI Desktop ≥ March 2024**.
