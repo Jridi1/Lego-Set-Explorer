@@ -66,8 +66,3 @@ The project demonstrates end-to-end BI workflow: data cleansing, calculated colu
    ```
 
 2. Press **Ctrl + R** (Refresh) to load the CSV file.
----
-
-## License
-MIT – do whatever you want
-This project is not affiliated with or endorsed by the LEGO Group.
