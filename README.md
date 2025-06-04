@@ -12,9 +12,6 @@ The project demonstrates end-to-end BI workflow: data cleansing, calculated colu
 3. [Data Preparation](#data-preparation)
 4. [Report Pages & Key Features](#report-pages--key-features)
 5. [How to Run](#how-to-run)
-6. [Repository Structure](#repository-structure)
-7. [Next Steps](#next-steps)
-8. [License](#license)
 
 ---
 
