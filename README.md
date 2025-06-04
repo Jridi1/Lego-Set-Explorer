@@ -64,37 +64,8 @@ The project demonstrates end-to-end BI workflow: data cleansing, calculated colu
    git clone https://github.com/jridi1/lego-set.git
    cd lego-set-explorer
    ```
-2. Open `LEGO.pbix` in **Power BI Desktop ≥ March 2024**.
-3. Press **Ctrl + R** (Refresh) to load the CSV from the `/data` folder.
-4. Explore: use slicers, adjust the **Max Price** slider, hover the table, and jump between pages with the buttons.
 
-_No external gateways or premium capacity required – everything is local._
-
----
-
-## Repository Structure
-```
-│  README.md
-│  LEGO.pbix              # final Power BI report
-│
-├─data
-│      lego_sets.csv
-│
-├─assets
-│      screenshot_01.png
-│      screenshot_02.png
-│      ...
-└─scripts                # optional helpers (Power Query M or Python)
-       clean_csv.py
-```
-
----
-
-## Next Steps
-- Connect to live **BrickLink** API for current market prices.
-- Publish to Power BI Service and enable row-level security per age bracket.
-- Replace decomposition tree with **Deneb** custom visual for richer drill-through.
-
+2. Press **Ctrl + R** (Refresh) to load the CSV file.
 ---
 
 ## License
