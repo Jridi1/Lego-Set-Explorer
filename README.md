@@ -28,7 +28,7 @@ The project demonstrates end-to-end BI workflow: data cleansing, calculated colu
 ---
 
 ## Dataset
-* **Source:** `lego_sets.csv` (original Brick Set scrape, included in /data).
+* **Source:** `lego_sets.csv` From Maven Analytics website.
 * Original columns removed: `minifigs`, `bricksetURL`, `thumbnailURL`.
 * Records without **price USD**, **age**, **pieces**, **imageURL** were filtered out.  
   *➡ Remaining rows: <span id="total-sets">4 385</span>; Price range: **$1 - $849.99**.*
